@@ -35,9 +35,10 @@ O projeto foi construído 100% em Python, utilizando as bibliotecas mais moderna
 
 ## 👥 Autores (Equipe de desenvolvimento do Grupo de Extensão)
 Este projeto foi desenvolvido com dedicação pela equipe de desenvolvimento:
-Anísio Barros Neto
-Itauã Manoel Matos Pelaes
-José Luís Gomes Lobato
-Lucas Bosque dos Santos
-Rui Cezar Pantoja dos Santos
+Anísio Barros Neto,
+Itauã Manoel Matos Pelaes,
+José Luís Gomes Lobato,
+Lucas Bosque dos Santos,
+Rui Cezar Pantoja dos Santos e
 Victor Randy Pimentel de Souza
+
