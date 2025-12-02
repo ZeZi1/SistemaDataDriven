@@ -1,15 +1,12 @@
-# Ignorar arquivos de ambiente virtual
+
 venv/
 .venv/
 env/
 __pycache__/
 
-# Ignorar o Banco de Dados (SEGURANÇA MÁXIMA AQUI)
 *.db
 dados_advocacia.db
 
-# Ignorar as Senhas
 .env
 
-# Ignorar arquivos de sistema
 .DS_Store
